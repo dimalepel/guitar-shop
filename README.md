@@ -9,5 +9,6 @@
 - [x] 08. Компонент "Счётчик товаров"
 - [x] 09. Компонент "Корзина покупок"
 - [x] 10. AJAX-запрос каталога товаров (Fetch API)
+- [ ] 11. Компонент "Прелоадер"
 
 Ссылка на плейлист: https://www.youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw
