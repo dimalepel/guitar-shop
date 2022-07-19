@@ -17,5 +17,6 @@ fetch('https://62d6aefa51e6e8f06f104f78.mockapi.io/guitars')
     render();
   })
   .catch(error => {
-    console.log(error);
+    spinnerPage.handleClear();
+    errorPage.render();
   });
