@@ -46,13 +46,11 @@ class Products {
       `;
     });
 
-    const html = `
+    ROOT_PRODUCTS.innerHTML = `
       <ul class="products-container">
           ${htmlCatalog}
       </ul>
     `;
-
-    ROOT_PRODUCTS.innerHTML = html;
   }
 }
 
