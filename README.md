@@ -7,5 +7,6 @@
 - [x] 06. Класс для работы с localStorage
 - [x] 07. Компонент "Каталог товаров" (localStorage для товаров)
 - [x] 08. Компонент "Счётчик товаров"
+- [ ] 09. Компонент "Корзина покупок"
 
 Ссылка на плейлист: https://www.youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw
