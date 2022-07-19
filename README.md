@@ -8,5 +8,6 @@
 - [x] 07. Компонент "Каталог товаров" (localStorage для товаров)
 - [x] 08. Компонент "Счётчик товаров"
 - [x] 09. Компонент "Корзина покупок"
+- [ ] 10. AJAX-запрос каталога товаров (Fetch API)
 
 Ссылка на плейлист: https://www.youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw
