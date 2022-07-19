@@ -14,4 +14,6 @@
 - [x] 11. Компонент "Прелоадер"
 - [x] 12. Компонент "Вывод ошибок"
 
-Ссылка на плейлист: https://www.youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw
+## Результат курса: https://dimalepel.github.io/js-guitar-shop/
+
+## Ссылка на плейлист: https://www.youtube.com/playlist?list=PL7cTIfGFrdKn9lnGXEUWEXYdYp-HKGPAw
